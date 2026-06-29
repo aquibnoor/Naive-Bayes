@@ -58,4 +58,5 @@ Gaussian Naive Bayes
 
 ## Author
 
-Aquib Noor
+Aquib Nooruddeen Shams
+
